@@ -127,4 +127,8 @@
   font-size: 14px;
   font-weight: 500;
 }
+
+.header .container {
+  margin: 0;
+}
 /*# sourceMappingURL=Header.css.map */
